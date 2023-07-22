@@ -15,6 +15,7 @@ flowchart example i worked on for the learning course
 | --- | --- | 
 | Favour | 23 |
 | Tunde | 45 |
+| Wasiu | 32 |
 
 | Name      | Age |
 | --------- | --- |
