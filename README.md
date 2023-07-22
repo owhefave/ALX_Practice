@@ -7,6 +7,6 @@ flowchart example i worked on for the learning course
 
 # See Activity list
 1. Go to the file menu
-2. gdsgd
-3. jhes
+1. gdsgd
+1. jhes
 
