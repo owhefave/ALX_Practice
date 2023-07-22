@@ -11,6 +11,12 @@ flowchart example i worked on for the learning course
 1. jhes
 
 ## contributors
-|Name|Age| 
-|Favour|23|
-|Tunde|45|
+| Name| Age | 
+| --- | --- | 
+| Favour | 23 |
+| Tunde | 45 |
+
+| Name      | Age |
+| --------- | --- |
+| John      | 25  |
+| Jane      | 30  |
