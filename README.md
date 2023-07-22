@@ -1,5 +1,5 @@
 # ALX_Practice
-##Project Objective
+## Project Objective
 To learn more about basics of github
 
 flowchart example i worked on for the learning course
